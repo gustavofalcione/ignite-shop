@@ -6,7 +6,7 @@ O ignite shop é uma aplicação frontend feita em Next.Js, de um pequeno e-comm
 
 # Objetivo
 
-O projeto teve como principal objetivo colocar em prática o uso dos métodos de renderização pelo lado do servidor, que são o cor do Next (SSR e SSG).
+O projeto teve como principal objetivo colocar em prática o uso dos métodos de renderização pelo lado do servidor, que são o core do Next (SSR e SSG).
 Além disso pude conhecer uma nova ferramenta de estilização css in js chamada Stitches com um porpósito semelhante ao famoso Styled-Components, com algumas diferenças; a integração com a plataforma de pagamentos Stripe e sua API, e por fim a biblioteca de slides keen slider.
 
 ## Layout
